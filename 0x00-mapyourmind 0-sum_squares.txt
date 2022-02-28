@@ -1,0 +1,11 @@
+DEFINE num1 AS integer
+DEFINE num2 AS integer
+DEFINE totalSum AS integer
+PRINT 'Enter number 1?'
+INPUT num1
+PRINT 'Enter number 1?'
+INPUT num1
+num1 <- num1 * num1
+num2 <- num2 * num2
+totalSum=num1 + num2
+PRINT totalNum
